@@ -29,3 +29,8 @@ if score >= 60:
 else:
     print("Fail")
 ```
+
+```python
+for i in range(5):
+    print(i)
+```
