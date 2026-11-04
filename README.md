@@ -22,3 +22,10 @@ x = 10
 y = 20
 print(x + y)
 ```
+
+score = 85
+if score >= 60:
+    print("Pass")
+else:
+    print("Fail")
+```
