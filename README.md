@@ -40,3 +40,10 @@ def add(a, b):
 
 print(add(3, 5))
 ```
+
+Lists store multiple values in a single variable.
+
+```python
+numbers = [1, 2, 3, 4, 5]
+print(sum(numbers))
+```
