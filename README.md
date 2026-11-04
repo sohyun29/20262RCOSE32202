@@ -47,3 +47,10 @@ Lists store multiple values in a single variable.
 numbers = [1, 2, 3, 4, 5]
 print(sum(numbers))
 ```
+This example finds the maximum value in a list.
+
+```python
+numbers = [10, 30, 20, 50, 40]
+maximum = max(numbers)
+print(maximum)
+```
