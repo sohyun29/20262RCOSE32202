@@ -14,3 +14,11 @@ Python is a programming language used for various applications.
 ```python
 print("Hello, GitHub!")
 ```
+
+Variables are used to store data in Python.
+
+```python
+x = 10
+y = 20
+print(x + y)
+```
