@@ -59,3 +59,6 @@ print(maximum)
 Through this repository, I reviewed fundamental Python programming concepts, including variables, conditional statements, loops, functions, lists, and simple algorithms.
 
 This repository is maintained for educational purposes.
+
+10time commited completed!
+
