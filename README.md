@@ -54,3 +54,8 @@ numbers = [10, 30, 20, 50, 40]
 maximum = max(numbers)
 print(maximum)
 ```
+## Conclusion
+
+Through this repository, I reviewed fundamental Python programming concepts, including variables, conditional statements, loops, functions, lists, and simple algorithms.
+
+This repository is maintained for educational purposes.
