@@ -34,3 +34,9 @@ else:
 for i in range(5):
     print(i)
 ```
+```python
+def add(a, b):
+    return a + b
+
+print(add(3, 5))
+```
